@@ -520,3 +520,12 @@ ipython_config.py
 
 .idea/
 
+model/
+
+runs/
+
+test_scenario/
+
+res/
+
+*.png

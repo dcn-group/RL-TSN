@@ -1,3 +1,4 @@
+"""
 from typing import NewType
 from typing import List
 from typing import Dict
@@ -11,3 +12,4 @@ PortId = NewType('PortId', int)
 from .flow import Flow
 from .topo import Topo
 from .net_env import NetEnv
+"""
